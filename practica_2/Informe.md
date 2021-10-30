@@ -5,7 +5,7 @@ ULL
 
 En el siguiente informe documentremos la práctica número 2 dedicada a la instalación de un sistema servidor MEAN que sirva contenido Web a través del uso de un Proxy HTTP, NodeJS y una base de datos MongoDB distribuidos en diferentes servidores.
 
-[Esquema servidor MEAN](https://github.com/educande05/ULL_ESIT_INF_SyTW_2021_alu0100890174/blob/main/practica_2/img/Captura%20de%20pantalla%202021-10-30%20105857.png)
+![Esquema servidor MEAN](https://github.com/educande05/ULL_ESIT_INF_SyTW_2021_alu0100890174/blob/main/practica_2/img/Captura%20de%20pantalla%202021-10-30%20105857.png)
 
 Para ello seguiremos una serie de pasos concretos para la instalación de cada máquina servidora.
 
@@ -97,7 +97,7 @@ node app.js
 
 Como podemos comprobar nuestra app de prueba corre perfectamente a través del proxy:
 
-[imagen aplicación de prueba](ruta)
+![imagen aplicación de prueba](https://github.com/educande05/ULL_ESIT_INF_SyTW_2021_alu0100890174/blob/main/practica_2/img/Captura%20de%20pantalla%202021-10-30%20133044.png)
 
 
 ### Configuración de la MV Base de datos con MongoDB
@@ -132,7 +132,7 @@ $\ quit()
 
 Configuramos los ajustes del fichero ```/etc/mongod.conf```. Los ajustes cambiados son los siguientes.
 
-[Imagen configuracion mongod.conf](ruta)
+![Imagen configuracion mongod.conf](https://github.com/educande05/ULL_ESIT_INF_SyTW_2021_alu0100890174/blob/main/practica_2/img/Captura%20de%20pantalla%202021-10-30%20135332.png)
 
 Reiniciamos el servidor MongoDB
 
