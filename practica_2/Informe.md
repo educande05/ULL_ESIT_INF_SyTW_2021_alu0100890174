@@ -5,7 +5,7 @@ ULL
 
 En el siguiente informe documentremos la práctica número 2 dedicada a la instalación de un sistema servidor MEAN que sirva contenido Web a través del uso de un Proxy HTTP, NodeJS y una base de datos MongoDB distribuidos en diferentes servidores.
 
-[Esquema servidor MEAN](img/Captura de pantalla 2021-10-30 105857.png)
+[Esquema servidor MEAN](https://github.com/educande05/ULL_ESIT_INF_SyTW_2021_alu0100890174/blob/5108f4616582bc2e5220258f194dcd705ccc9165/practica_2/img/Captura%20de%20pantalla%202021-10-30%20105857.png)
 
 Para ello seguiremos una serie de pasos concretos para la instalación de cada máquina servidora.
 
