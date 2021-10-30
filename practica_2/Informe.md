@@ -239,5 +239,15 @@ Añadimos
 172.16.134.3:/home/usuario/public /home/usuario/public nfs auto 0 0
 ```
 
+Ahora tenemos el sistema de archivos correctamente compartido entre la Mv Backend y la Mv DDBB.
+
+
+## 4. Concluciones
+
+Ya tenemos los sistemas configurados y preparados para alojar un servicio Web en condiciones a través de Nginx, nodejs y MongoDB distribuido en sus correspondientes máquinas virtuales, el siguiente paso desplegar en nuestro servidor una aplicación de prueba basada en el stack [MEAN](https://platzi.com/blog/que-es-mean-full-stack-javascript/?utm_source=google&utm_medium=paid&utm_campaign=14603491644&utm_adgroup=&utm_content=&gclid=CjwKCAjw2vOLBhBPEiwAjEeK9qcOxT8PAHF7sROVVJ_gj3Oz0YCxxRGboF3dsgPwDb5Vm23QBhSVhBoCz4MQAvD_BwE&gclsrc=aw.ds). Utilizaremos en concreto la aplicación de ejemplo de [bitnami](https://github.com/bitnami/sample-mean).
+
+![imagen servidor escalable horizontalmente](https://github.com/educande05/ULL_ESIT_INF_SyTW_2021_alu0100890174/blob/main/practica_2/img/Captura%20de%20pantalla%202021-10-30%20151528.png)
+
+También crearemos un repositorio con Github del proyecto en el Backend para la manipulación del código de nuestro servidor Web.
 
 
