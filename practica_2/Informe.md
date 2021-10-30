@@ -252,7 +252,8 @@ Ahora tenemos el sistema de archivos correctamente compartido entre la Mv Backen
 Ya tenemos los sistemas configurados y preparados para alojar un servicio Web en condiciones a través de Nginx, nodejs y MongoDB distribuido en sus correspondientes máquinas virtuales, el siguiente paso desplegar en nuestro servidor una aplicación de prueba basada en el stack [MEAN](https://platzi.com/blog/que-es-mean-full-stack-javascript/?utm_source=google&utm_medium=paid&utm_campaign=14603491644&utm_adgroup=&utm_content=&gclid=CjwKCAjw2vOLBhBPEiwAjEeK9qcOxT8PAHF7sROVVJ_gj3Oz0YCxxRGboF3dsgPwDb5Vm23QBhSVhBoCz4MQAvD_BwE&gclsrc=aw.ds). Utilizaremos en concreto la aplicación de ejemplo de [bitnami](https://github.com/bitnami/sample-mean).
 
 <p align="center">
-  <img src="hhttps://github.com/educande05/ULL_ESIT_INF_SyTW_2021_alu0100890174/blob/main/practica_2/img/Captura%20de%20pantalla%202021-10-30%20151528.png" />
+  <img src="hhttps://github.com/educande05/ULL_ESIT_INF_SyTW_2021_alu0100890174/blob/main/practica_2/img/Captura%20de%20pantalla%202021-10-30%20151528.png"
+/>
 </p>
 
 También crearemos un repositorio con Github del proyecto en el Backend para la manipulación del código de nuestro servidor Web.
