@@ -1,4 +1,4 @@
-![ULL](imagenes/Logo_Universidad_LaLaguna.png)
+![ULL](img/Logo_Universidad_LaLaguna.png)
 
 # Práctica 2 - Despliegue de una aplicación MEAN en el IaaS de la
 
