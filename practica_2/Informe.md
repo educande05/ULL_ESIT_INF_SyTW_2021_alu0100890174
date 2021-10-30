@@ -136,7 +136,7 @@ $\ quit()
 
 Configuramos los ajustes del fichero ```/etc/mongod.conf```. Los ajustes cambiados son los siguientes.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/educande05/ULL_ESIT_INF_SyTW_2021_alu0100890174/blob/main/practica_2/img/Captura%20de%20pantalla%202021-10-30%20135332.png" />
 </p>
 
